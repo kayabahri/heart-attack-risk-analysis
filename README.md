@@ -39,8 +39,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
-   cd proje-adi
+   git clone https://github.com/kayabahri/heart-attack-risk-analysis
+   cd heart-attack-risk-analysis
 
 
 pip install -r requirements.txt
